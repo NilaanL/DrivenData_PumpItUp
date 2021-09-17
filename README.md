@@ -10,8 +10,7 @@ Best Score : 0.8141
 Rank : 1985
 final moel : CatBoost
 
-![plot]("./submission proof/Best.png")
-![Screenshot]("./submission proof/Best.png")
+![plot](https://github.com/NilaanL/DrivenData_PumpItUp/blob/main/submission%20proof/Best.png)
 
 pre req :
    python 3
